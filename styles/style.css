@@ -136,6 +136,11 @@ p > .fa-solid {
     width: 100%;
     margin: 0 10px;
     padding: 30px;
+    cursor: pointer;
+}
+
+.box-info-single:hover {
+    opacity: 0.9;
 }
 
 .fa-book, .fa-comments-dollar, .fa-money-check-dollar{
